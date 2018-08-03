@@ -1,41 +1,26 @@
 body{
     background-color:  black;
     border: solid
-    10px whitesmoke;
-    
-    }
-    
-    
-    
+    15px whitesmoke;
+    }    
+
     .personal{
-    
     background-color: 
     rgb(113, 
     121, 165);
-    
     }
-    
-    
-    
+
     .navigate{
-    
     display: 
     flex;
-    
     justify-content: 
     flex-start;
-    
     text-align: 
     flex-start;
-    
     color: white;
-    
     font-style: 
     bold;
-    
     }
-    
-    
     
     h1{
     display: 
@@ -44,80 +29,43 @@ body{
     font-size: 60px;
     }
     
-    
-    
     p{
-    color: blue;
+    color: white;
     font-size:  40px;
     }
     
-    
-    
     .describe{
-    
     flex-direction: 
     column;
-    
-    
     }
-    
-    
     
     .me{
-    
     display: 
     inline-flex;
-    
     }
     
-    
-    
     #dude{
-    
     margin: 0px;
     height: 30%;
     width: 30%;
     border: solid
     4px black;
-    
     }
-
-    
-    
-    
     
     .linkedin{
-    
     flex-direction: 
     row;
-    
     }
-    
-    
-    
-    
-    
-    
     
     #link{
-    
     width: 250px;
-    
     height: 225px;
-    
     margin-right: 
     60px;
-    
     }
     
-    
-    
     #insta{
-    
     width: 250px;
-    
     height: 225px;
-    
     margin-left: 10px;
-    
     }

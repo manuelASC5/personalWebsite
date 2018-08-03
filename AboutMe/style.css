@@ -1,0 +1,68 @@
+body{
+    background-color:  black;
+    border: solid
+    13px whitesmoke;
+    }    
+
+    .personal{
+    background-color: 
+    rgb(113, 
+    121, 165);
+    }
+    .navigate{
+        display: 
+        flex;
+        justify-content: 
+        flex-start;
+        text-align: 
+        flex-start;
+        color: white;
+        font-style: 
+        bold;
+        }
+        
+        h2{
+        display: 
+        flex; color: white;
+        font-style:  unset; 
+        font-size: 60px;
+        }
+        h1{
+            display: 
+            flex; color: white;
+            font-style:  unset; 
+            font-size: 30px;
+            }
+        
+        p{
+        font-size:  25px;
+        color: white
+        }
+        p1{
+            color: white;
+            font-size:  25px;
+            }
+        #Manny{
+            display: 
+            inline-flex;
+        }
+        .Familia{
+        display: 
+        inline-flex;    
+        }
+        #one{
+            display: flex;
+            flex-direction: column;
+        }
+        #dude{
+        margin: 10px;
+        width: 30vw;
+        border: solid
+        4px black;
+        }
+        #dudet{
+            margin:10px;
+            width: 30vw;
+            border: solid
+            4px black;
+            }
